@@ -1,0 +1,16 @@
+{
+  "name": "bk003",
+  "version": "0.0.0",
+  "description": "Just Testing",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onewheelskyward/bk003.git"
+  },
+  "author": "Andrew Kreps",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onewheelskyward/bk003/issues"
+  },
+  "homepage": "https://github.com/onewheelskyward/bk003#readme"
+}
